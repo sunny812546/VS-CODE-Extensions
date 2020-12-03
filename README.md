@@ -15,5 +15,6 @@
 14. live share
 15. ES7 REact/Redux/GraphQL/React-Native Snippets
 16. ToDo Highlight
+17. codesnap
 
 
