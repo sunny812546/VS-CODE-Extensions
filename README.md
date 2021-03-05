@@ -16,5 +16,47 @@
 15. ES7 REact/Redux/GraphQL/React-Native Snippets
 16. ToDo Highlight
 17. codesnap
+18. Path Intellisense
+19. Music Time for Spotify
+20. one dark pro
 
+{
+    "python.pythonPath": "C:\\Users\\sunny\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "debug.node.autoAttach": "on",
+    "workbench.activityBar.visible": false,
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
 
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "python.autoComplete.addBrackets": true,
+    "git.autofetch": true,
+    "editor.accessibilitySupport": "off",
+    "editor.renameOnType": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.menuBarVisibility": "toggle",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": [],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },"emmet.includeLanguages": {
+        "javascript": "javascriptreact"}
+}
