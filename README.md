@@ -21,7 +21,7 @@
 20. one dark pro
 21. Tabnine Autocomplete
 22. Tailwind CSS intelliSense
-23. 
+23. Thunder Client
 
 {
     "python.pythonPath": "C:\\Users\\sunny\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
